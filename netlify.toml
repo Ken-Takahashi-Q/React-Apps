@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/project-2-cal/*"
+  to = "index.html"
+  status = 200
+
+[[redirects]]
+  from = "project-3-social/*"
+  to = "index.html"
+  status = 200
